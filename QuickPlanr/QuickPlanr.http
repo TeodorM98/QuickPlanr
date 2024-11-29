@@ -1,0 +1,6 @@
+@QuickPlanr_HostAddress = http://localhost:5031
+
+GET {{QuickPlanr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
